@@ -18,6 +18,8 @@ I'm an Experimental Immunologist by training but most of my research projects ha
     <td valign="top" width="50%">
 
 ![Your Image](https://github.com/shayshay42/shayshay42/blob/main/pixelart_persona.png)
+
+My new years resolution is to read Linda E. Reichl ~ A Modern Course in Statistical Physics (Ilya Prigogine World View)
     </td>
   </tr>
 </table>
