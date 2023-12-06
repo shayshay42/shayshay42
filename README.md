@@ -8,18 +8,20 @@
 
  <!--& Digital Alchemist (Virtual Clinical Trials: FDA Project Optimus)-->
 
-I'm an Experimental Immunologist by training but most of my research projects have tackled theoretical questions in **Pattern Formation** and **Optimal Control**. For the first part of my thesis, I am mostly using Julia's **automatic differentiation package** to perform **Model Predictive Optimal Control** on a pharmacokinetic / pharmacodynamic model of Glioblastoma under combination therapy in the frame of FDA's project Optimus and **Virtual Clinical Trials**. Generally, I'm very interested in **Inverse problems** in dynamical systems, **non-equilibrium phase transitions**, and scuba diving to see water bugs 🪸. Recently I made this web app with my friends... take a look:
+I'm an Experimental Immunologist by training but most of my research projects have tackled theoretical questions in **Pattern Formation** and **Optimal Control**. For the first part of my thesis, I am mostly using Julia's **automatic differentiation** package to perform **Model Predictive Control** on a pharmacokinetic / pharmacodynamic model of Glioblastoma under combination therapy in the frame of FDA's project Optimus and **Virtual Clinical Trials**. Generally, I'm very interested in **Inverse problems** in dynamical systems, **non-equilibrium phase transitions**, and scuba diving to see water bugs 🪸. Recently I made this web app with my friends... take a look:
 
-
-
-[<img src="https://github.com/fikra-mosaic/litmus-pulse/blob/main/static/images/eye_hist.png" width="50" alt="WebApp">](https://readtheroom-22b56fee21e6.herokuapp.com/)
+<div align="center">
+    <a href="https://readtheroom-22b56fee21e6.herokuapp.com/">
+        <img src="https://github.com/fikra-mosaic/litmus-pulse/blob/main/static/images/eye_hist.png" width="50" alt="WebApp">
+    </a>
+</div>
     </td>
     <!-- Right Column for Image -->
     <td valign="top" width="50%">
 
 ![Your Image](https://github.com/shayshay42/shayshay42/blob/main/pixelart_persona.png)
 
-My new years resolution is to read Linda E. Reichl ~ A Modern Course in Statistical Physics (Ilya Prigogine World View)
+My new year's resolution is to read Linda E. Reichl ~ A Modern Course in Statistical Physics (Ilya Prigogine World View)
     </td>
   </tr>
 </table>
