@@ -8,7 +8,7 @@
 
  <!--& Digital Alchemist (Virtual Clinical Trials: FDA Project Optimus)-->
 
-I'm an Experimental Immunologist by training but most of my research projects have tackled theoretical questions in **Pattern Formation** and **Optimal Control**. For the first part of my thesis, I am mostly using Julia's **automatic differentiation** packages to perform **Model Predictive Control** on a pharmacokinetic / pharmacodynamic model of Glioblastoma under combination therapy in the frame of FDA's project Optimus and **Virtual Clinical Trials**. Generally, I'm very interested in **Inverse problems** in dynamical systems, **non-equilibrium phase transitions**, and scuba diving to see water bugs 🪸. Recently I made this web app with my friends... take a look:
+Most of my research projects have tackled theoretical questions in **Pattern Formation** and **Optimal Control** but I've also done some cool experimental immunology in the past. For the first part of my thesis, I am mostly using Julia's **automatic differentiation** packages to perform **Model Predictive Control** on a pharmacokinetic / pharmacodynamic model of Glioblastoma under combination therapy and **Virtual Clinical Trials**. Generally, I'm very interested in **Inverse problems** in dynamical systems, **non-equilibrium phase transitions**, and scuba diving to see water bugs 🪸. Recently I made this web app with my friends... take a look:
 
 <div align="center">
     <a href="https://readtheroom.site/" target="_blank">
